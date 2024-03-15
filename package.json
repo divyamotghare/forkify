@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Divya Motghare",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1",
+    "fracty": "^1.0.11",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
